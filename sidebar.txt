@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awh:home|Door43 (awh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awh|d43-awh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awh/archive/master.zip|d43-awh.zip]]
+
+**Recent Changes**
+{{changes>ns = awh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awh|Ethnologue data]]
+
